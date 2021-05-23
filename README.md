@@ -3,9 +3,9 @@
 
 
 # Code 201 Reading Notes
-| labNum  | laBNAME |
+| labNum        | laBNAME                      |
 |    :----      |    -------------:      |  
-|       Read: 01        |     [Introductory HTML and JavaScript]( https://kafaween.github.io/reading-notes-201/class-01/)       |
+| Read: 01      |     [Introductory HTML and JavaScript]( https://kafaween.github.io/reading-notes-201/class-01/)       |
 |               |               |
 |               |               |
 |               |               |
