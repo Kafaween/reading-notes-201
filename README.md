@@ -6,7 +6,7 @@
 | labNum        | laBNAME                      |
 |    :----      |    -------------:      |  
 | Read: 01      |     [Introductory HTML and JavaScript]( https://kafaween.github.io/reading-notes-201/class-01)       |
-|               |               |
+| Read:02       |     [Basics of HTML, CSS & JS]( https://kafaween.github.io/reading-notes-201/class-02)           |
 |               |               |
 |               |               |
 |               |               |
