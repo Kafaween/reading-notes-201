@@ -30,9 +30,14 @@ The parentheses may include parameter names separated by commas:
 The code to be executed, by the function, is placed inside curly brackets: {}
   
   # Why pair program?
-  * 1. Greater efficiency
+  * Greater efficiency
+  
   *Engaged collaboration
+  
   *Learning from fellow students
+  
   *Social skills
+  
   *Job interview readiness
+  
   *Work environment readiness
