@@ -9,7 +9,7 @@
 | Read:02       |     [Basics of HTML, CSS & JS]( https://kafaween.github.io/reading-notes-201/class-02)           |
 | Read:03       |      [HTML Lists, Control Flow with JS, and the CSS Box Model]( https://kafaween.github.io/reading-notes-201/read-03)          |
 | Read:04       |   [HTML Links, JS Functions, and Intro to CSS Layout]( https://kafaween.github.io/reading-notes-201/read-04)            |
-| Read:05       |   [HTML Images; CSS Color & Text]( https://kafaween.github.io/reading-notes-201/read-05)            |
+| Read:05       |   [HTML Images; CSS Color & Text]( https://kafaween.github.io/reading-notes-201/Read-05)            |
 |               |               |
 |               |               |
 |               |               |
