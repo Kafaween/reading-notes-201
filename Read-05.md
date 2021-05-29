@@ -1,4 +1,4 @@
- # Images
+#  Images
  
  > The <img> element is used to add images to a 
 web page.
@@ -20,7 +20,7 @@ logos that use flat colors are better saved as GIFs
  
  * Use the correct resolution
  
- # Colors
+ #  Colors
  Color not only brings your site to life, but also helps 
 convey the mood and evokes reactions.
 
@@ -28,7 +28,6 @@ There are three ways to specify colors in CSS:
 RGB values, hex codes, and color names.
 
 Color pickers can help you find the color you want
-
 
 # Text
 There are properties to control the choice of font, size, 
