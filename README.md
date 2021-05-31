@@ -11,7 +11,7 @@
 | Read:04       |   [HTML Links, JS Functions, and Intro to CSS Layout]( https://kafaween.github.io/reading-notes-201/read-04)            |
 | Read:05       |   [HTML Images; CSS Color & Text]( https://kafaween.github.io/reading-notes-201/Read-05)            |
 | Read:06       |   [Problem Domain, Objects, and the DOM]( https://kafaween.github.io/reading-notes-201/read-06)            |
-|               |               |
+| Read:07       |   [Object-Oriented Programming, HTML Tables]( https://kafaween.github.io/reading-notes-201/read-07)            |
 |               |               |
 |               |               |
 |               |               |
