@@ -13,7 +13,7 @@ This correction is produced through CSS. In this article, we will examine two po
 
 * Design starts with your content (headlines, text, links, photographs, etc.), not with colors, fonts, or icons. It is the page message that should dictate the design.
 
-For example, if the goal of a student organization page is to get more students to join, you can put a large photo of the members doing something fun or interesting, together with quotes from them. Then you use style to make them compelling.
+> For example, if the goal of a student organization page is to get more students to join, you can put a large photo of the members doing something fun or interesting, together   with quotes from them. Then you use style to make them compelling.
 
 * Mock up your design. Don't start your design with code, start with a drawing. Using a drawing program (Paint, Photoshop, Illustrator, etc.) gives you freedom to explore different colors, fonts, images, and positioning, without having to write code. This way you can experiment faster with many choices. If your page needs user interface elements such as buttons, tabs, etc. you can use the free stencil kit from Yahoo, together with Photoshop.
 
