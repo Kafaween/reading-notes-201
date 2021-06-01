@@ -11,7 +11,7 @@ This correction is produced through CSS. In this article, we will examine two po
 
 
 
- # <div> elements are often used as containing elements to group together sections of a page.
+ # div elements are often used as containing elements to group together sections of a page.
   
 > Browsers display pages in normal flow unless you 
  specify relative, absolute, or fixed positioning.
