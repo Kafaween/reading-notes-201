@@ -13,7 +13,7 @@
 | Read:06       |   [Problem Domain, Objects, and the DOM]( https://kafaween.github.io/reading-notes-201/read-06)            |
 | Read:07       |   [Object-Oriented Programming, HTML Tables]( https://kafaween.github.io/reading-notes-201/read-07)            |
 | Read:08       |   [More CSS Layout]( https://kafaween.github.io/reading-notes-201/read-08)             |
-|               |               |
+| Read:09       |   [Forms and JS Events]( https://kafaween.github.io/reading-notes-201/read-09)             |
 |               |               |
 |               |               |
 |               |               |
