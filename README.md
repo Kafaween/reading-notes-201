@@ -15,7 +15,7 @@
 | Read:08       |   [More CSS Layout]( https://kafaween.github.io/reading-notes-201/read-08)             |
 | Read:09       |   [Forms and JS Events]( https://kafaween.github.io/reading-notes-201/read-09)             |
 |               |               |
-|               |               |
+| Read:11       |   [Audio, Video, Images]( https://kafaween.github.io/reading-notes-201/read-11)            |
 |               |               |
 |               |               |
 |               |               |
