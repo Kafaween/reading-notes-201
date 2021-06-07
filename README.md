@@ -17,7 +17,7 @@
 | Read:10       |   [JS Debugging]( https://kafaween.github.io/reading-notes-201/read-10)            |
 | Read:11       |   [Audio, Video, Images]( https://kafaween.github.io/reading-notes-201/read-11)            |
 | Read:12       |   [Chart.js, Canvas]( https://kafaween.github.io/reading-notes-201/read-12)            |
-|               |               |
+| Read:13       |   [Local Storage]( https://kafaween.github.io/reading-notes-201/read-13)            |
 |               |               |
 |               |               |
 |               |               |
